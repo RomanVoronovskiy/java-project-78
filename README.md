@@ -1,5 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/RomanVoronovskiy/java-project-78/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/RomanVoronovskiy/java-project-78/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f1f04d0d85fa0d0800d4/maintainability)](https://codeclimate.com/github/RomanVoronovskiy/java-project-78/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f1f04d0d85fa0d0800d4/test_coverage)](https://codeclimate.com/github/RomanVoronovskiy/java-project-78/test_coverage)
 
 ## Цель
 Валидатор данных – проект, направленный на прокачку проектирования архитектуры в объектно-ориентированном стиле. Здесь вам понадобится применять практически все, чему вы научились в курсах по ООП: проектирование структуры классов, композиция объектов, возможно наследование и, обязательно, fluent-интерфейс. Вам придется задумываться о глобальном и локальном состоянии, думать о расширяемости кода без его переписывания, соблюдать SOLID принципы.
