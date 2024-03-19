@@ -16,7 +16,7 @@ public class ValidatorTest {
     public void test() {
         Validator validator = new Validator();
 
-        Map<String, BaseSchema> schemas = new HashMap<>();
+        Map<String, BaseSchema<String>> schemas = new HashMap<>();
         schemas.put("test req firstname", validator.string().required());
         schemas.put("testLen req lastname", validator.string().required().minLength(2));
 
